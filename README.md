@@ -19,7 +19,7 @@ Hello, my name is Yuteng Zhang and I obtained my Ph.D. degree in Chemistry (Bioc
 
 
 - 🔭 I'm currently working as a data-driven Operations Scientist, utilizing extensive lab inventory datasets for decision-making and cost reduction strategies, as well as implementing data-based supply chain management techniques.
-- 👯 I’m experienced in [image analysis](https://scholar.google.com/citations?user=1HtyOXYAAAAJ&hl=en)for molecule localization extraction and 2/3D cellular structure reconstructionon by light/fluorescence microscopy.
+- 👯 I’m experienced in [image analysis](https://scholar.google.com/citations?user=1HtyOXYAAAAJ&hl=en) for molecule localization extraction and 2/3D cellular structure reconstructionon by light/fluorescence microscopy.
 - 🌱 I’m currently learning [deep learning](https://github.com/Yuteng0927/Deep-Learning-Project) and [machine learning](https://github.com/Yuteng0927/Machine-Learning-Project)
 - 💬 Ask me about super-resolution single-molecule fluorescence microscopy.
 - 🤔 I’m looking for help with Cloud computing services and 3D reconstructed imaging.
