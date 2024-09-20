@@ -15,14 +15,12 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Yuteng Zhang and I obtained my Ph.D. degree in Chemistry (Biochemistry division), in [Department of Chemistry](https://uh.edu/nsm/chemistry/) at [University of Houston](https://www.uh.edu/). My research interests computational and statistical methods to analyze and interpret biological data in order to gain insights and make discoveries in the field of healthcare.
+Hello, my name is Yuteng Zhang and I obtained my Ph.D. degree in Chemistry (computational geochemistry division) at [University of Houston](https://www.uh.edu/). I am a skilled data scientist specializing in computational and statistical modeling to analyze and interpret complex, high-dimensional datasets across diverse fields, including geosciences, healthcare, operations, and supply chain management.
 
-
-- 🔭 I'm currently working as a data-driven Operations Scientist, utilizing extensive lab inventory datasets for decision-making and cost reduction strategies, as well as implementing data-based supply chain management techniques.
-- 👯 I’m experienced in [image analysis](https://scholar.google.com/citations?user=1HtyOXYAAAAJ&hl=en) for molecule localization extraction and 2/3D cellular structure reconstructionon by light/fluorescence microscopy.
-- 🌱 I’m currently learning [deep learning](https://github.com/Yuteng0927/Deep-Learning-Project) and [machine learning](https://github.com/Yuteng0927/Machine-Learning-Project)
-- 💬 Ask me about super-resolution single-molecule fluorescence microscopy.
-- 🤔 I’m looking for help with Cloud computing services and 3D reconstructed imaging.
+- 🔭 I'm currently a data-driven Operations Scientist, utilizing extensive lab inventory datasets for decision-making and cost reduction strategies, as well as implementing data-based supply chain management techniques.
+- 👯 I’m experienced in [Image Analysis](https://scholar.google.com/citations?user=1HtyOXYAAAAJ&hl=en) and [Deep Learning](https://github.com/Yuteng0927/Deep-Learning-Project).
+- 🌱 I’m currently learning [Generative AI with Large Language Models](https://github.com/Yuteng0927/Machine-Learning-Project) 
+- 🤔 I’m looking for help with Cloud Computing services.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuteng-zhang-138071221/)
 
 **Languages and Tools:** 
