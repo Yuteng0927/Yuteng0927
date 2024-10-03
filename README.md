@@ -15,11 +15,11 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-I am Yuteng Zhang and obtained my Ph.D. degree in Chemistry (computational geochemistry division) at [University of Houston](https://www.uh.edu/). 
+I am Yuteng Zhang and obtained my Ph.D. degree in Chemistry (computational division) at [University of Houston](https://www.uh.edu/). 
 
 I am a skilled data scientist specializing in computational and statistical modeling to analyze and interpret complex, high-dimensional datasets across diverse fields, including geosciences, healthcare, operations, and supply chain management.
 
-- I'm currently a data-driven Operations Scientist, utilizing extensive lab inventory datasets for decision-making and cost reduction.
+- I'm currently a data-driven Scientist, utilizing extensive lab inventory datasets for decision-making and cost reduction.
 - I’m experienced in [Image Analysis](https://scholar.google.com/citations?user=1HtyOXYAAAAJ&hl=en) and [Deep Learning](https://github.com/Yuteng0927/Deep-Learning-Project).
 - I’m currently learning [Generative AI with Large Language Models](https://github.com/Yuteng0927/Machine-Learning-Project) 
 - I’m looking for help with Cloud Computing services.
