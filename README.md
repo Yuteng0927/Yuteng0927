@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-I am Yuteng Zhang and obtained my Ph.D. degree in Chemistry (computational division) at [University of Houston](https://www.uh.edu/). 
+I am Yuteng Zhang and obtained my Ph.D. degree in Biochemistry (computational division) at [University of Houston](https://www.uh.edu/). 
 
 I am a skilled data scientist specializing in computational and statistical modeling to analyze and interpret complex, high-dimensional datasets across diverse fields, including geosciences, healthcare, operations, and supply chain management.
 
